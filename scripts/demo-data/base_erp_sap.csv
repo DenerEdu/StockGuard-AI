@@ -1,0 +1,17 @@
+SKU,Descricao,Categoria,Custo_Unitario,Saldo_ERP,Ultima_Movimentacao_SAP
+MAT-1001,Notebook Corporativo Ultra 14,TI & Hardware,6490.00,42,601 - Saída Remessa
+MAT-1002,Servidor Rack Enterprise 2U,Infraestrutura,18500.00,14,101 - Entrada NF-e
+MAT-1003,Monitor 4K IPS 32 Pol,TI & Hardware,3200.00,50,201 - Centro Custo
+MAT-1004,Estação de Trabalho CAD Pro,TI & Hardware,9800.00,18,101 - Entrada NF-e
+MAT-1005,Switch Gerenciável L3 48P,Redes,4200.00,24,101 - Entrada NF-e
+MAT-1006,Dock Station Thunderbolt 4,Periféricos,1150.00,60,311 - Transf Depósito
+MAT-1007,Nobreak Senoidal 3000VA,Infraestrutura,2890.00,22,101 - Entrada NF-e
+MAT-1008,Cadeira Ergonômica Executiva,Mobiliário,1680.00,36,101 - Entrada NF-e
+MAT-1009,Headset ANC Corporativo,Periféricos,690.00,80,601 - Saída Remessa
+MAT-1010,SSD NVMe 2TB Enterprise,Componentes,890.00,45,101 - Entrada NF-e
+MAT-1011,Teclado Mecânico Wireless Pro,Periféricos,420.00,90,201 - Centro Custo
+MAT-1012,Webcam 4K Conferência,Periféricos,540.00,40,551 - Avaria
+MAT-1013,Mouse Ergonômico Bluetooth,Periféricos,210.00,110,101 - Entrada NF-e
+MAT-1014,Hub USB-C 8 em 1 Alumínio,Acessórios,185.00,95,101 - Entrada NF-e
+MAT-1015,Suporte Articulado Duplo,Mobiliário,290.00,55,101 - Entrada NF-e
+MAT-1016,Cabo HDMI 2.1 Blindado 2m,Acessórios,65.00,160,101 - Entrada NF-e
