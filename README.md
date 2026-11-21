@@ -13,6 +13,14 @@ O **StockGuard AI** automatiza todo o fluxo: da ingestão das planilhas até a e
 
 ---
 
+## 🎥 Demonstração
+
+
+https://github.com/user-attachments/assets/443e56e2-6440-44ca-9c6b-dab087216c53
+
+
+---
+
 ## ✨ Principais Funcionalidades
 
 - **Hub de Conciliação (CSV / XLSX):** Importação direta de bases reais do ERP/SAP e da Contagem Física, com download de modelos de layout padronizados.
